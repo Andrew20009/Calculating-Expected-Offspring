@@ -1,7 +1,7 @@
 # Calculating Expected Offspring
 
 ## OVERVIEW
-This program calculates the **expected number of offspring** displaying the **dominant phenotype** in the next generation, given the number of couples of each genotype pairing and assuming every couple has exactly two offspring.
+This program calculates the expected number of offspring displaying the dominant phenotype in the next generation, given the number of couples of each genotype pairing and assuming every couple has exactly two offspring.
 It is a solution to the **"Calculating Expected Offspring"** Rosalind problem **(ID: IEV)**. The tool is simple, efficient, and ideal for practicing expected value, probability, and file handling in Python.
 
 ---
